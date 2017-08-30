@@ -1,0 +1,3 @@
+api_task:
+    type: rest
+    resource: AppBundle:Task
